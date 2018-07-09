@@ -1,0 +1,18 @@
+[09-Jul-2018 14:16:45 Asia/Krasnoyarsk] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 89
+[09-Jul-2018 14:16:45 Asia/Krasnoyarsk] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 62
+[09-Jul-2018 14:16:45 Asia/Krasnoyarsk] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 65
+[09-Jul-2018 14:16:45 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 67
+[09-Jul-2018 14:16:45 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 78
+[09-Jul-2018 14:17:18 Asia/Krasnoyarsk] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 89
+[09-Jul-2018 14:17:18 Asia/Krasnoyarsk] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 62
+[09-Jul-2018 14:17:18 Asia/Krasnoyarsk] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 65
+[09-Jul-2018 14:17:18 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 67
+[09-Jul-2018 14:17:18 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 78
+[09-Jul-2018 14:19:59 Asia/Krasnoyarsk] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 89
+[09-Jul-2018 14:19:59 Asia/Krasnoyarsk] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 62
+[09-Jul-2018 14:19:59 Asia/Krasnoyarsk] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 65
+[09-Jul-2018 14:19:59 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 67
+[09-Jul-2018 14:19:59 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 78
+[09-Jul-2018 14:25:28 Asia/Krasnoyarsk] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'orangehrm'@'localhost' (using password: NO) in /var/www/html/orangehrm/install.php on line 177
+[09-Jul-2018 14:25:53 Asia/Krasnoyarsk] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 39
+[09-Jul-2018 14:25:53 Asia/Krasnoyarsk] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /var/www/html/orangehrm/installer/ApplicationSetupUtility.php on line 55

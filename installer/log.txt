@@ -1,0 +1,20 @@
+Client Info
+
+User Agent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 7.0.30-0ubuntu0.16.04.1
+Server : Apache/2.4.18 (Ubuntu)
+Admin : webmaster@localhost
+
+Document Root : /var/www/html
+ROOT_PATH : /var/www/html/orangehrm
+
+OrangeHRM Installation Log
+
+Mon, 09 Jul 2018 14:25:53 +0700 DB Creation - Starting
+Mon, 09 Jul 2018 14:25:53 +0700 DB Creation - Done
+Mon, 09 Jul 2018 14:25:53 +0700 DB Creation - No Errors
